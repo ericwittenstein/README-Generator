@@ -1,23 +1,52 @@
-# Unit-9-Challenge
-## Homework challenge for Unit 9: NodeJS
+# README Generator v1
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Having read the instructions, I have, to the best of my abilities, done the following:
+## Description
 
-- used Inquirer NPM and NodeJS to create a custom README generator that runs in the console and outputs a .md file that can be used as a professional quality Github Repo README
-- added screenshots and links to this readme for the deployed application repo
-- pushed my files to GitHub and deployed them to a live site through GitHub
-- submitted the deployed application URL and GitHub repo to BCS for review and grading
+This project uses Inquirer NPM and NodeJS to run a JavaScript file that gives the user a series of prompts and then generates a proffesional-quality README.md file from the responses
 
-[URL of Deployed Application](TBD)
+## Table of Contents 
 
-![screen recording of functional deployed site](TBD)
+* [Installation](#installation)
 
-<!-- EHW SIGNET
----------
-    |
-  -----
-    |
----------
- -->
+* [Usage](#usage)
 
-### Eric Wittenstein
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command in the console/command line:
+
+```
+npm i
+```
+
+## Usage
+
+Be sure to install the dependencies first, then run the following in the command line or console: "node index.js"
+
+## License
+
+This project is licensed under the MIT license.
+
+## GitHub Repo
+
+[URL of GitHub Repo](https://github.com/ericwittenstein/README-Generator-v1)
+
+## Project Demo
+
+![screen recording of README Generator](./assets/READMEGeneratorDemo.gif)
+
+## Contributing
+
+Don't plagarize
+
+## Questions and Contact Info
+
+If you have any questions about the repo, please open an issue on GitHub or contact me directly at eric.wittenstein@gmail.com.
+
+You can find more of my work at [github.com/ericwittenstein/](https://github.com/ericwittenstein/).
