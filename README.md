@@ -1,9 +1,9 @@
-# README Generator v1
+# Custom README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This project uses Inquirer NPM and NodeJS to run a JavaScript file that gives the user a series of prompts and then generates a proffesional-quality README.md file from the responses
+This project uses Inquirer NPM and Node.js to run a JS script that gives the user a series of prompts about how they would like their README.md file to look and what to incldue. The script then generates a professional-quality README file from the responses.
 
 ## Table of Contents 
 
@@ -13,9 +13,13 @@ This project uses Inquirer NPM and NodeJS to run a JavaScript file that gives th
 
 * [License](#license)
 
+* [GitHub Repo](#github-repo)
+
 * [Contributing](#contributing)
 
-* [Questions](#questions)
+* [Testing](#testing)
+
+* [Questions](#questions-and-contact-info)
 
 ## Installation
 
@@ -27,26 +31,49 @@ npm i
 
 ## Usage
 
-Be sure to install the dependencies first, then run the following in the command line or console: "node index.js"
+To begin running the program, run the following command in the console/command line:
+
+```
+node index.js
+```
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the MIT license. Learn more [HERE](LICENSE)
 
 ## GitHub Repo
 
-[URL of GitHub Repo](https://github.com/ericwittenstein/README-Generator-v1)
+https://github.com/ericwittenstein/README-Generator-v1
 
 ## Project Demo
 
-![screen recording of README Generator](./assets/READMEGeneratorDemo.gif)
+![Demo](./assets/demo-ss.png)
 
 ## Contributing
 
-Don't plagarize
+Not accepting contributions at this time
+
+## Testing
+
+To initiate the unit tests for this project, run the following command in the console/command line: 
+
+```
+npm test
+```
 
 ## Questions and Contact Info
 
-If you have any questions about the repo, please open an issue on GitHub or contact me directly at eric.wittenstein@gmail.com.
+If you have any questions about the repo, please open an issue on GitHub or contact me directly at [eric.wittenstein@gmail.com](mailto:eric.wittenstein@gmail.com).
 
 You can find more of my work at [github.com/ericwittenstein/](https://github.com/ericwittenstein/).
+
+<!-- EHW SIGNET
+---------
+    |
+  -----
+    |
+---------
+ -->
+
+### Eric Wittenstein
+
