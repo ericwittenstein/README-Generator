@@ -3,7 +3,7 @@
 
 ## Description
 
-This project uses Inquirer NPM and Node.js to run a JS script that gives the user a series of prompts about how they would like their README.md file to look and what to incldue. The script then generates a professional-quality README file from the responses.
+This project uses Inquirer NPM and Node.js to run a JS script that gives the user a series of prompts about how they would like their README file to look and what to include. The script then generates a professional-quality README.md file from the responses at the index level of the project directory.
 
 ## Table of Contents 
 
